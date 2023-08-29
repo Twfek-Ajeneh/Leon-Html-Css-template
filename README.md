@@ -66,6 +66,6 @@ Contributions are welcome and greatly appreciated. If you have any suggestions, 
 
 ## Contact
 
-If you have any questions, feel free to reach out to me at [twfekajeneh@gmail.com](twfekajeneh@gmail.com).
+If you have any questions, feel free to reach out to me at twfekajeneh@gmail.com.
 
 Thank you for visiting the **Leon** repository! We hope you find this project useful and inspiring.
