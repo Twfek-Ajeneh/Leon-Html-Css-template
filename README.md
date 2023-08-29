@@ -13,7 +13,7 @@ Welcome to the **Leon** repository! This repository contains a simple yet elegan
 
 ## Preview
 
-To get a glimpse of the website, you can check out the live preview by following this link: [Leon - Live Preview ↗](https://example.com)
+To get a glimpse of the website, you can check out the live preview by following this link: [Leon - Live Preview ↗](https://twfek-ajeneh.github.io/Leon-Html-Css-template/)
 
 ## Getting Started
 
