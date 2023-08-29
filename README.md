@@ -62,20 +62,10 @@ Contributions are welcome and greatly appreciated. If you have any suggestions, 
 
 ## Authors
 
-- [Your Name](https://github.com/your-username)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc.
+- [Your Name](https://github.com/Twfek-Ajeneh)
 
 ## Contact
 
-If you have any questions, feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions, feel free to reach out to me at [twfekajeneh@gmail.com](twfekajeneh@gmail.com).
 
 Thank you for visiting the **Leon** repository! We hope you find this project useful and inspiring.
